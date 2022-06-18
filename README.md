@@ -3,4 +3,5 @@
 Built using :-
 - Nextjs
 - Reactjs
+- Typescript
 - Tailwindcss

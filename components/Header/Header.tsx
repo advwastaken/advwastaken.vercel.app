@@ -91,7 +91,7 @@ function Header() {
 								<Link href="/about">
 								  <h1 className="cursor-pointer text-[#00FFFF]  block px-3 py-2 rounded-md text-base font-medium hover:underline">About</h1>
 								</Link>
-								<Link href="https://github.com/adv-wastaken/adv-wastaken.github.io">
+								<Link href="https://github.com/adv-wastaken/advwastaken.vercel.app">
 								  <h1 className="cursor-pointer text-[#00FFFF]  block px-3 py-2 rounded-md text-base font-medium hover:underline">Github</h1>
 								</Link>
 							</div>

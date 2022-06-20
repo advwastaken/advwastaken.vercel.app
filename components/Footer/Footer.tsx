@@ -12,7 +12,7 @@ const Footer: NextPage = () => {
         </div>
         <div className="h-1/2 w-full p-5">
           <h1 className="text-xl text-[#00ffff] font-ubuntu font-medium pb-2">Location</h1>
-          <h1 className="text-xs text-[#C0C0C0]">Jharkhand, India</h1>
+          <h1 className="text-xs text-[#C0C0C0]">India</h1>
         </div>
       </div>
       <div className="w-1/2 md:w-2/5 h-full p-5 flex flex-col">

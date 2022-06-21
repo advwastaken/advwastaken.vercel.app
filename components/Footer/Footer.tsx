@@ -17,7 +17,7 @@ const Footer: NextPage = () => {
       </div>
       <div className="w-1/2 md:w-2/5 h-full p-5 flex flex-col">
         <h1 className="text-xl text-[#00ffff] font-ubuntu font-medium">Socials</h1>
-        <Link href="https://github.com/adv-wastaken">
+        <Link href="https://github.com/advwastaken">
           <h1 className="text-xs text-[#C0C0C0] py-2">Github</h1>
         </Link>
         <Link href="https://t.me/chillpillwastaken">
